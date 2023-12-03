@@ -1,0 +1,25 @@
+#game-container {
+    width: 320px; /* Adjust size as needed */
+    margin: auto;
+    background-color: rgb(180,163,150);
+    padding: 5px;
+
+    border-radius: 5px;
+}
+
+.tile {
+    vertical-align: top;
+    width: 70px; /* Adjust size as needed */
+
+    height: 70px;
+    background-color: #eee;
+    border-radius: 5px;
+    margin: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    line-height: 70px;
+    font-size: 24px;
+    font-weight: bold;
+    display: inline-block; 
+
+}
